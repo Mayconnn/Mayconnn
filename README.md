@@ -1,7 +1,7 @@
 ## Salve! eu sou o maycon mais conhecido como maykão
 
 - 🔭 Atualmente estou trabalhando como Front-end.
-- 🌱 Estudando JavaScript e SASS no momento.
+- 🌱 Estudando JavaScript no momento.
 
 <div>
    <a href="https://github.com/mayconnn"> 
